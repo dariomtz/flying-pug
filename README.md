@@ -1,2 +1,2 @@
 # flying-pug
-A game about a flying dog avoiding death
+A side-scrolling endless runner game about a flying dog avoiding "chanclas"
